@@ -1,0 +1,5 @@
+D:\Workspace\Koala\Test\MEFTest\MEFTest\bin\Debug\MEFTest.exe.config
+D:\Workspace\Koala\Test\MEFTest\MEFTest\bin\Debug\MEFTest.exe
+D:\Workspace\Koala\Test\MEFTest\MEFTest\bin\Debug\MEFTest.pdb
+D:\Workspace\Koala\Test\MEFTest\MEFTest\obj\Debug\MEFTest.exe
+D:\Workspace\Koala\Test\MEFTest\MEFTest\obj\Debug\MEFTest.pdb

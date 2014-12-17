@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEFTest", "MEFTest\MEFTest.csproj", "{18546C04-B79E-430A-ADC8-763A1F8838ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstExtension", "FirstExtension\FirstExtension.csproj", "{0B733775-9874-458F-BB54-E468B8C60B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondExtension", "SecondExtension\SecondExtension.csproj", "{AF8E1725-6214-4B19-AB63-504DCF981DD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18546C04-B79E-430A-ADC8-763A1F8838ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18546C04-B79E-430A-ADC8-763A1F8838ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18546C04-B79E-430A-ADC8-763A1F8838ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18546C04-B79E-430A-ADC8-763A1F8838ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B733775-9874-458F-BB54-E468B8C60B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B733775-9874-458F-BB54-E468B8C60B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B733775-9874-458F-BB54-E468B8C60B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B733775-9874-458F-BB54-E468B8C60B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8E1725-6214-4B19-AB63-504DCF981DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8E1725-6214-4B19-AB63-504DCF981DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8E1725-6214-4B19-AB63-504DCF981DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8E1725-6214-4B19-AB63-504DCF981DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
